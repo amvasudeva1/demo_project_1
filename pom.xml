@@ -3,4 +3,7 @@
   <groupId>demo_project_1</groupId>
   <artifactId>demo_project_1</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <configuration>
+        <pushChanges>false</pushChanges>
+  </configuration>
 </project>
