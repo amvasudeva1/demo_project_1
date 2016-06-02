@@ -4,6 +4,6 @@
   <artifactId>demo_project_1</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <configuration>
-        <pushChanges>false</pushChanges>
+        <pushChanges>true</pushChanges>
   </configuration>
 </project>
