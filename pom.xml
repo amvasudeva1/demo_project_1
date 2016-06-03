@@ -3,13 +3,13 @@
   <groupId>demo_project_1</groupId>
   <artifactId>demo_project_1</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <properties>
+  	<github.global.server>github</github.global.server>
+  </properties>
   <distributionManagement>
   	<repository>
   	<name>Temporary Staging Repository</name>
     <url>https://github.com/amvasudeva1/mvn-repo</url>
   	</repository>
   </distributionManagement>
-  <properties>
-  <github.global.server>github</github.global.server>
-</properties>
 </project>
