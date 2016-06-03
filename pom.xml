@@ -3,4 +3,8 @@
   <groupId>demo_project_1</groupId>
   <artifactId>demo_project_1</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <repository>
+  	<name>Temporary Staging Repository</name>
+    <url>file://https://github.com/amvasudeva1/demo_project_1</url>
+  </repository>
 </project>
