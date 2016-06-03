@@ -9,4 +9,7 @@
     <url>https://github.com/amvasudeva1/mvn-repo</url>
   	</repository>
   </distributionManagement>
+  <properties>
+  <github.global.server>github</github.global.server>
+</properties>
 </project>
