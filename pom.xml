@@ -10,6 +10,6 @@
   	<repository>
   		<name>Temporary Staging Repository</name>
     	<url>file://${project.build.directory}/mvn-repo</url>
-  	<!-- /repository -->
+  	</repository>
   </distributionManagement>
 </project>
